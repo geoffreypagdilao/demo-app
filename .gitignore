@@ -17,3 +17,4 @@ target/
 
 *.sqlite
 *.sqlite-*
+.env.production
